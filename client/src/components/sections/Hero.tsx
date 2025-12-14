@@ -40,7 +40,7 @@ export function Hero() {
             <a href="https://github.com/abhi9651-c" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
               <Github size={24} />
             </a>
-            <a href="https://linkedin.com/in/abhishek-kumar" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+            <a href="https://www.linkedin.com/in/abhishek-kumar-4745a7289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
               <Linkedin size={24} />
             </a>
             <a href="mailto:abhishekkumar@example.com" className="text-muted-foreground hover:text-primary transition-colors">
