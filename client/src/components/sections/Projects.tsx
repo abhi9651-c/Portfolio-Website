@@ -11,7 +11,7 @@ const projects = [
     tech: ["HTML", "CSS", "JavaScript", "Bootstrap"],
     year: "2024",
     links: {
-      github: "https://github.com/abhi9651-c",
+      github: 'https://github.com/abhi9651-c/Portfolio-Website',
       demo: "#"
     }
   },
