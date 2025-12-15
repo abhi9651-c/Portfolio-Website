@@ -21,7 +21,7 @@ const projects = [
     tech: ["HTML", "CSS", "JavaScript"],
     year: "2023",
     links: {
-      github: "https://github.com/abhi9651-c",
+      github: "https://github.com/abhi9651-c/QR-code-generator",
       demo: "#"
     }
   }
